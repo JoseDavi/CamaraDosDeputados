@@ -36,7 +36,7 @@ Mas se você quiser aprender ReactJS e dar seus primeiros passos por aqui, seja 
 - [Tutorial oficial do React](https://pt-br.reactjs.org/docs/getting-started.html#try-react).
 - [Curso para iniciar no ReactJS da Rockeseat](https://skylab.rocketseat.com.br/node/curso-react-js).
 
-Fique a vontade para adicionar novos links.
+**Fique a vontade para adicionar novos links.**
 
 ## Hall of Fame
 
